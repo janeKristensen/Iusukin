@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iusukin
-- 🌱 I’m currently **trying** to learn C++ programming.
+- 🌱 I’m currently **trying** to learn C++ and python programming.
 
 
 <!---

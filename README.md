@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iusukin
+- 👋 Hi, I’m Jane
 - 🌱 I’m currently **trying** to learn C++ and python programming.
 
 
